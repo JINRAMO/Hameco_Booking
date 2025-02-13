@@ -1,0 +1,6 @@
+[submodule "Hemeco_Booking_BE"]
+	path = Hemeco_Booking_BE
+	url = https://github.com/JINRAMO/Hameco_Booking_BE.git
+[submodule "Hemeco_Booking_FE"]
+	path = Hemeco_Booking_FE
+	url = https://github.com/JINRAMO/Hameco_Booking_FE.git
